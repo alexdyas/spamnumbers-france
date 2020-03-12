@@ -1,8 +1,6 @@
 # NCIDD Blacklist of Spam call numbers in France
 # https://github.com/alexdyas/spamnumbers-france.git
-
 # Work in progress
-
 0465662684
 0465668026
 0188333137
@@ -11,7 +9,4 @@
 0244558540
 0266120354
 0381443856
-0972534010
-
-# End comment due to bug in NCIDD https://sourceforge.net/p/ncid/bugs/41/
-#
+0972534010 # End comment due to bug in NCIDD https://sourceforge.net/p/ncid/bugs/41/
